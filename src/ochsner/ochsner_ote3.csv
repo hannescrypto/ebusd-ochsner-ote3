@@ -1,0 +1,7 @@
+"# type (r[1-9];w;u),class,name,comment,QQ,ZZ,PBSB,ID,field,part (m;s),type / templates,divider / values,unit";w;u),class,name,comment,QQ,ZZ,PBSB,ID,field,part (m;s),type / templates,divider / values,unit
+r,,aussentemp,Auﬂentemperatur,,15,0621,00800040,,,tempt,,,,∞C;;;
+r,,warmwasser_ist,Warmwassertemperatur Ist,,15,0621,00840040,,,tempt,,,,∞C;;;
+r,,puffer_vorlauf_tpo,Vorlauf Puffer oben (TPO),,15,0621,00e00040,,,tempt,,,,∞C;;;
+r,,wp_status,Status W‰rmepumpe,,15,0621,02b50040,,,hpstatus,,,,,;;;
+r,,datum,Datum,,15,0621,02c60040,,,bdate,,,,,;;;
+r,,uhrzeit,Uhrzeit,,15,0621,02c80040,,,btime,,,,,;;;
